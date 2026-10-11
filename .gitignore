@@ -1,0 +1,6 @@
+.lake/
+.lake*
+*.olean
+*.ilean
+*.c
+test.lean

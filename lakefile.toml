@@ -1,0 +1,8 @@
+name = "jsp_000845_formalization"
+version = "0.1.0"
+defaultTargets = ["JSP000845"]
+
+[[lean_lib]]
+name = "JSP000845"
+srcDir = "."
+roots = ["JSP000845", "JSP000845.Basic", "JSP000845.LowerBound", "JSP000845.Extraction"]
